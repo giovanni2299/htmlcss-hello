@@ -26,3 +26,8 @@
     margin-top: 10px;
     margin-left: 20px;
 }
+
+.text-center > footer{
+    text-align: center;
+    font-size: 15px;
+}
