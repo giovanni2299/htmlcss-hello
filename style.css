@@ -6,11 +6,23 @@
 
 .text-center{
     margin: auto;
-    width: 1000px;
-    height: 500px;
+    width: 900px;
+    height: 300px;
+    background: black;
+}
+
+.text-center h1{
+    color: white;
     text-align: center;
 }
 
 .text-center p{
     margin-top: 10px;
+    color: red;
+}
+
+.list{
+    color: lightblue;
+    margin-top: 10px;
+    margin-left: 20px;
 }
